@@ -1,0 +1,7 @@
+a) git pull recupere les modification et fusionne atomatiquement les modifications de la brache distante dans la branche local actuelle alors que git fetch recupere les modifications de la branche distante sans les fusionner automatiquemant
+
+b) git checkout --chemin/vers/le/ffichier
+
+c) git push nom-du-depot --delete nom-de-la-branche
+
+d)git log chemin/vers/le/fichier
